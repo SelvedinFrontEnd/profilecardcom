@@ -5,7 +5,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Links
 
 - Solution URL: [Solution]()
-- Live Site URL: [Site]()
+- Live Site URL: [Site](profcardcomp.netlify.app)
 
 ### Built with
 

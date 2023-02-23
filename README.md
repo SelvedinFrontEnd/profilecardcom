@@ -4,8 +4,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Solution]()
-- Live Site URL: [Site](profcardcomp.netlify.app)
+- Solution URL: [Solution](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ/hub)
+- Live Site URL: [Site](https://profcardcomp.netlify.app)
 
 ### Built with
 
